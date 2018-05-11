@@ -1,11 +1,15 @@
 # 2018 ADMIN 소쿠리 데이터 분석대회 안내
+
 ----------
- 문의 akrja4@nate.com
+ 문의 : akrja4@nate.com
+ 
 **2018 소쿠리 데이터 분석대회**
+
+![ex](https://github.com/shinhaha/MachineLearning_tensorflow/blob/master/Inflearn_SungKim/6.TrainingAndTest/img/WhyNaN.png)
 
 - 회장: 신하람([akrja4](https://acmicpc.net/user/akrja4))
 - 진행: 박성욱([sungwuk](https://github.com/sungwuk)), 한선규([coMkkyu](https://github.com/coMkkyu))
-- 운영진:오현정,이재인,김남형,홍석우,백우진
+- 운영진: 오현정, 이재인, 김남형, 홍석우, 백우진
 <br>
 
 > - 주 최 : 컴퓨터공학과, 동아리 ADMIN
