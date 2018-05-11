@@ -5,7 +5,7 @@
  
 **2018 소쿠리 데이터 분석대회**
 
-![poster](https://github.com/CSE-ADMIN/2018-SOKULEE-Big-Data-Analysis-Competition/tree/master/img)
+![poster](https://github.com/CSE-ADMIN/2018-SOKULEE-Big-Data-Analysis-Competition/blob/master/img/poster.jpg)
 
 - 회장: 신하람([akrja4](https://acmicpc.net/user/akrja4))
 - 진행: 박성욱([sungwuk](https://github.com/sungwuk)), 한선규([coMkkyu](https://github.com/coMkkyu))
