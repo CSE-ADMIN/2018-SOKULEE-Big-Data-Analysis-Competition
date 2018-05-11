@@ -1,5 +1,5 @@
-![Alt Text](https://github.com/CNU-ANT/1st-Thinking-PC/blob/master/A/img/A1.png)
-
+# 2018 ADMIN 소쿠리 데이터 분석대회 안내
+ 문의 akrja4@nate.com
 ----------
 
 **2018 소쿠리 데이터 분석대회**
@@ -18,7 +18,7 @@
 
 <br>
 
-:bulb: 참가 신청서: [신청서 작성](https://docs.google.com/forms/d/e/1FAIpQLSchoXh4hKHM9Vb_8RWvTru3o6Bnao8adqXMIE202FNs2koQYw/viewform?c=0&w=1)
+:bulb: 참가 신청서: [신청서 작성](https://docs.google.com/forms/d/e/1FAIpQLSchoXh4hKHM9Vb_8RWvTru3o6Bnao8adqXMIE202FNs2koQYw/viewform?usp=sf_link)
 
 ----------
 
