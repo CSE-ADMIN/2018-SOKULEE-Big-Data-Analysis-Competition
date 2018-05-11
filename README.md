@@ -5,7 +5,7 @@
  
 **2018 소쿠리 데이터 분석대회**
 
-![ex](https://github.com/shinhaha/MachineLearning_tensorflow/blob/master/Inflearn_SungKim/6.TrainingAndTest/img/WhyNaN.png)
+![poster](https://github.com/CSE-ADMIN/2018-SOKULEE-Big-Data-Analysis-Competition/tree/master/img)
 
 - 회장: 신하람([akrja4](https://acmicpc.net/user/akrja4))
 - 진행: 박성욱([sungwuk](https://github.com/sungwuk)), 한선규([coMkkyu](https://github.com/coMkkyu))
