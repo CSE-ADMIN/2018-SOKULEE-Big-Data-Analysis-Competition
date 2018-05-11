@@ -6,7 +6,7 @@
 **2018 소쿠리 데이터 분석대회**
 ![poster](https://github.com/CSE-ADMIN/2018-SOKULEE-Big-Data-Analysis-Competition/blob/master/img/poster.jpg)
 
-- 회장: 신하람([akrja4](https://github.com/akrja4)
+- 회장: 신하람([akrja4](https://github.com/shinhaha))
 - 진행: 박성욱([sungwuk](https://github.com/sungwuk)), 한선규([coMkkyu](https://github.com/coMkkyu))
 - 운영진: 오현정, 이재인, 김남형, 홍석우, 백우진
 <br>
