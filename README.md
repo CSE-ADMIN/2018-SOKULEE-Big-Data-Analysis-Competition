@@ -18,11 +18,10 @@
 
 <br>
 
-:bulb: Baekjoon Online Judge: [Score Board](https://www.acmicpc.net/contest/board/247), [Problems](https://www.acmicpc.net/category/detail/1756)
+:bulb: 참가 신청서: [신청서 작성](https://docs.google.com/forms/d/e/1FAIpQLSchoXh4hKHM9Vb_8RWvTru3o6Bnao8adqXMIE202FNs2koQYw/viewform?c=0&w=1)
 
 ----------
 
-> [Startlink](https://startlink.io/) <br>
 > 국방ICT융합인력양성사업단 <br>
 > 충남대학교 컴퓨터공학과 동아리 ADMIN
 <br>
