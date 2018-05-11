@@ -4,7 +4,6 @@
  문의 : akrja4@nate.com
  
 **2018 소쿠리 데이터 분석대회**
-
 ![poster](https://github.com/CSE-ADMIN/2018-SOKULEE-Big-Data-Analysis-Competition/blob/master/img/poster.jpg)
 
 - 회장: 신하람([akrja4](https://acmicpc.net/user/akrja4))
