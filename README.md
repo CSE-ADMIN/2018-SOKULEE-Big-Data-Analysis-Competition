@@ -1,7 +1,6 @@
 # 2018 ADMIN 소쿠리 데이터 분석대회 안내
- 문의 akrja4@nate.com
 ----------
-
+ 문의 akrja4@nate.com
 **2018 소쿠리 데이터 분석대회**
 
 - 회장: 신하람([akrja4](https://acmicpc.net/user/akrja4))
