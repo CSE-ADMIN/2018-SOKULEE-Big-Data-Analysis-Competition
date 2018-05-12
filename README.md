@@ -4,7 +4,7 @@
  문의 : akrja4@nate.com
  
 **2018 소쿠리 데이터 분석대회**
-![poster](https://github.com/CSE-ADMIN/2018-SOKULEE-Big-Data-Analysis-Competition/blob/master/img/poster.jpg)
+![poster](https://github.com/CSE-ADMIN/2018-SOKULEE-Big-Data-Analysis-Competition/blob/master/img/poster.png)
 
 - 회장: 신하람([akrja4](https://github.com/shinhaha))
 - 진행: 박성욱([sungwuk](https://github.com/sungwuk)), 한선규([coMkkyu](https://github.com/coMkkyu))
@@ -20,7 +20,7 @@
 
 <br>
 
-:bulb: 참가 신청서: [신청서 작성](https://docs.google.com/forms/d/e/1FAIpQLSchoXh4hKHM9Vb_8RWvTru3o6Bnao8adqXMIE202FNs2koQYw/viewform?usp=sf_link)
+:bulb: 참가 신청서: *[신청서 작성](https://docs.google.com/forms/d/e/1FAIpQLSchoXh4hKHM9Vb_8RWvTru3o6Bnao8adqXMIE202FNs2koQYw/viewform?usp=sf_link)
 
 ----------
 
