@@ -20,11 +20,11 @@
 
 :bulb: 참가 신청서: **[신청서 작성](https://docs.google.com/forms/d/e/1FAIpQLSchoXh4hKHM9Vb_8RWvTru3o6Bnao8adqXMIE202FNs2koQYw/viewform?usp=sf_link)**
 
-
 ----------
 
 > 충남대학교 SW중심대학 사업단 <br>
 > 충남대학교 컴퓨터공학과 동아리 ADMIN
 <br>
+
 문의: akrja4@nate.com 
 
